@@ -12,7 +12,7 @@ class MiAplicacion extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
         title: "Calculadora semana2",
-        theme: ThemeData.light(),
+        theme: ThemeData.dark(),
         home: HomePage());
   }
 }
